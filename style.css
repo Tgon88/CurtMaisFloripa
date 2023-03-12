@@ -20,21 +20,23 @@ nav {
 
 .nav ul li {
     display: inline-block;
-    color: #8b8b8b;
+    /* color: #8b8b8b; */
+    color: #2bc1e6;
     margin-left: 15px;
     height: 50px;
 }
 
 .nav ul li:hover {
-    border-bottom: 3px solid #1b5c60;
-}
-
-.nav ul li a:hover {
+    border-bottom: 3px solid;
     color: #147880;
 }
 
+.nav ul li a:hover {
+    color: #2bc1e6;
+}
+
 .nav ul li a {
-    color: #8b8b8b;
+    color: #2bc1e6;
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
@@ -81,11 +83,11 @@ nav ul li {
 }
 
 nav ul li:hover {
-    border-bottom: 3px solid #adbfc0;
+    border-bottom: 2px solid #2bc1e6;
 }
 
 nav ul li a:hover {
-    color: #a9b7b8;
+    color: #2bc1e6;
 }
 
 nav ul li a {
@@ -97,7 +99,7 @@ nav ul li a {
 
 .col-100 {
     width: 100%;
-    float: left;
+    /* float: left; */
     position: relative;
 }
 
@@ -194,7 +196,7 @@ li.slick-active button {
 }
 
 .principal {
-    padding: 1m 0;
+    padding: 2em 0;
     background: #fefefe;
     font-weight: bold;
     width: 940px;
