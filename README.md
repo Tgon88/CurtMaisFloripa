@@ -1,6 +1,6 @@
 # Curta Mais Floripa
 
-Projeto sobre praias e turismo em Florianópolis.
+Projeto sobre praias e turismo em Florianópolis, realizado pelo Grupo 09.
 
 ## Online:
 
@@ -35,7 +35,7 @@ Trabalho realizado em grupo, durante o 4º período da faculdade de Análise e D
 ## Colaboradores:
 
 -   [Amanda Suamy](https://www.linkedin.com/in/amanda-suamy-5a380a184)
--   Arthur
+-   [Arthur Dalla Santa Alves](https://www.linkedin.com/in/arthurdsalves/)
 -   David Ricardo da Silveira
 -   [Etienne Marques](https://www.linkedin.com/in/etienne-marques-902462a7)
 -   [Gustavo de Araujo Maciel](https://linkedin.com/in/gustavoaraujomaciel)
