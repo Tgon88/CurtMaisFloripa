@@ -2,10 +2,6 @@
 
 Projeto sobre praias e turismo em Florianópolis, realizado pelo Grupo 09.
 
-## Online:
-
-[Veja o projeto online no Github Pages](https://tgon88.github.io/CurtaMaisFloripa/)
-
 ## Capturas de tela:
 
 ## Instalação e uso do projeto:
@@ -36,7 +32,7 @@ Trabalho realizado em grupo, durante o 4º período da faculdade de Análise e D
 
 -   [Amanda Suamy](https://www.linkedin.com/in/amanda-suamy-5a380a184)
 -   [Arthur Dalla Santa Alves](https://www.linkedin.com/in/arthurdsalves/)
--   David Ricardo da Silveira
+-   [David Ricardo da Silveira](https://github.com/davidricardo2023)
 -   [Etienne Marques](https://www.linkedin.com/in/etienne-marques-902462a7)
 -   [Gustavo de Araujo Maciel](https://linkedin.com/in/gustavoaraujomaciel)
 -   Guilherme
